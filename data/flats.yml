@@ -1,0 +1,33 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: "card-paris.jpg"
+  owner_picture: "seb.jpg"
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  max_guest: 4
+  nearest_station: Gare du Nord
+
+
+romain:
+  owner_name: Romain Paillard
+  picture: "card-london.jpg"
+  owner_picture: "images/romain.jpg"
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  max_guest: 4
+  nearest_station: Charing Cross
+
+sam:
+  owner_name: Sam Cathcart
+  picture: "card-zurich.jpg"
+  owner_picture: "images/sam.jpg"
+  name: Sam's home
+  summary: Charming room in Zurich
+  city: Zurich, Switzerland
+  wifi: true
+  max_guest: 4
+  nearest_station: Zurich HB
